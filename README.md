@@ -1,5 +1,7 @@
 # API
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/ttran375/api)
+
 The repository contains:
 
 * Distributed code from **eCentennial**: `server.js` used to build an API server.
