@@ -25,7 +25,7 @@ Select **Open in GitHub Codespaces** and then **Create codespace**. **GitHub** w
 
 ### Install Packages
 
-Install the necessary dependencies for both the server and client parts of the application.
+Install the necessary dependencies.
 
 ```sh
 yarn
